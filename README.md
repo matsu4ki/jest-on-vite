@@ -12,3 +12,8 @@
 4. 新しいターミナルを開き、`npm test` or `npm run test:watch`でテストを実行する
 5. `npm run dev` で vite を起動する
 6. テスト結果が表示される
+
+## Tips
+
+- 右の画面が小さい場合は、右上にある「Open in New Tab」より大きい画面で確認できる
+- `npm run test:watch`はファイル変更毎に test 実行が走るので、重い場合は `npm test` を逐次実行すること
