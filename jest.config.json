@@ -1,0 +1,21 @@
+{
+  "moduleFileExtensions": ["js", "json"],
+  "rootDir": ".",
+  "testRegex": ".*\\.test\\.js$",
+  "roots": ["<rootDir>"],
+  "modulePaths": ["<rootDir>"],
+  "moduleDirectories": ["node_modules"],
+  "testEnvironment": "node",
+  "coverageDirectory": "./coverage",
+  "reporters": [
+    "default",
+    [
+      "jest-html-reporters",
+      {
+        "publicPath": ".",
+        "filename": "index.html",
+        "inlineSource": true
+      }
+    ]
+  ]
+}
