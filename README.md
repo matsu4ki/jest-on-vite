@@ -15,7 +15,8 @@
 
 ## Sample
 
-<https://github.com/matsu4ki/jest-on-vite/resources/sample.mp4>
+<https://github.com/matsu4ki/jest-on-vite/blob/main/resources/sample.mp4>
+
 
 ## Tips
 
