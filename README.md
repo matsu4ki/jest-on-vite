@@ -13,6 +13,10 @@
 5. `npm run dev` で vite を起動する
 6. テスト結果が表示される
 
+## Sample
+
+<https://github.com/matsu4ki/jest-on-vite/resources/sample.mp4>
+
 ## Tips
 
 - 右の画面が小さい場合は、右上にある「Open in New Tab」より大きい画面で確認できる
